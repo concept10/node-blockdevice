@@ -30,7 +30,8 @@
     "url": "https://github.com/jhermsmeier/node-blockdevice/issues"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "install": "node-gyp rebuild"
   },
   "directories": {
     "example": "example",
