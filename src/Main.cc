@@ -3,8 +3,8 @@
 
 #include "BlockDevice.h"
 
-using namespace node;
-using namespace v8;
+using node;
+using v8;
 
 void InitAll( Handle<Object> exports ) {
   BlockDevice::Init( exports );

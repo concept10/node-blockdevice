@@ -5,8 +5,8 @@
 #include <v8.h>
 #include <nan.h>
 
-using namespace node;
-using namespace v8;
+using node;
+using v8;
 
 class BlockDevice : public ObjectWrap {
   

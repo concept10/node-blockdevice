@@ -4,9 +4,9 @@
 
 #include "BlockDevice.h"
 
-using namespace node;
-using namespace std;
-using namespace v8;
+using node;
+using std;
+using v8;
 
 BlockDevice::BlockDevice() {}
 BlockDevice::~BlockDevice() {}
