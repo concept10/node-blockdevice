@@ -3,7 +3,7 @@
 # Version format
 version: "{branch}, build {build}"
 # Don't clone the entire history
-clone_depth: 5
+clone_depth: 1
 # Don't actually build
 build: off
 
